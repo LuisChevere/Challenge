@@ -5,4 +5,3 @@ In this challenge I added a linked command from the top of "Search Engine Optimi
 https://luischevere.github.io/Challenge
 
 ./Develop/assets/images/landing-page.png
-text here.
